@@ -2,8 +2,6 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>SIEM Tutorial Practice</b>
-  - [Practicing SIEM](https://github.com/PotatoJean/SIEMTutorial/blob/main/README.md)
 - <b>Setting up basic home lab (Active Directory)</b>
   - [Active Directory](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) </i>
 - <b>File Integrity Monitor Practice</b>
