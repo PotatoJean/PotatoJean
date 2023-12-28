@@ -6,10 +6,10 @@
   - [TCPDump](https://github.com/PotatoJean/TCPDumpProject/blob/main/README.md) </i>
   
 - <b>Setting up basic home lab (Active Directory)</b>
-  - [Active Directory](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) </i>
+  - [Active Directory]() </i>
   
 - <b>CyberSafeU</b>
-  - [Education & Training System for TARUMT]()
+  - [Education & Training System for TARUMT](https://github.com/PotatoJean/CyberSafeU)
     
 - <b>File Integrity Monitor Practice [in progress]</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]()
