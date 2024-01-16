@@ -27,7 +27,7 @@
 <h2>🔧 Labs Completed:</h2>
 - <b>Boss of the SOC V1, CyberDefenders</b>
 - <b>Phishing Analysis, Blue Team Labs Online(BTLO)</b>
-
+- <b>>Boss of the SOC V1, CyberDefenders</b>
 
 <h2> 🤳 Connect with me:</h2>
 
