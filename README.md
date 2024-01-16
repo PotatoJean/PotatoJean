@@ -25,12 +25,10 @@
 - <b>CCNAv7-3 levels</b>
 
 <h2>🔧 Labs Completed:</h2>
+
 - <b>Boss of the SOC V1 (CyberDefenders)</b>
 - <b>Phishing Analysis, Blue Team Labs Online(BTLO)</b>
-- <b>Qualys Vulnerability Management (Expected 3/2024)</b>
-- <b>CompTIA Security+ (Expected 6/2024)</b>
-- <b>Google Cybersecurity Professional Certificate  </b>
-- <b>CCNAv7-3 levels</b>
+
 
 <h2> 🤳 Connect with me:</h2>
 
