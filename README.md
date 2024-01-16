@@ -2,7 +2,7 @@
 <p>Welcome to my GitHub portfolio! I am a cybersecurity student from TARUMT. I would like to explore different roles if given the opportunity. Connect with me below!</p>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Analyze Network Traffic (TCPDump)  </b>
+- <b>Analyze Network Traffic (TCPDump) </b>
   - [TCPDump](https://github.com/PotatoJean/TCPDumpProject/blob/main/README.md) </i>
   
 - <b>Setting up basic home lab (Active Directory)</b>
@@ -25,8 +25,8 @@
 - <b>CCNAv7-3 levels</b>
 
 <h2>🔧 Labs Completed:</h2>
-- <b>Boss of the SOC V1- CyberDefenders</b>
-- <b>Phishing Analysis- Blue Team Labs Online(BTLO)</b>
+- <b>Boss of the SOC V1, CyberDefenders</b>
+- <b>Phishing Analysis, Blue Team Labs Online(BTLO)</b>
 
 
 <h2> 🤳 Connect with me:</h2>
