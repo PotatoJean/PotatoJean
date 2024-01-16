@@ -35,7 +35,7 @@
 [<img align="left" alt="JennVenThong  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JennVenThong  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[youtube]: 
+[youtube]: https://www.instagram.com/jennvennnn/
 [instagram]: https://www.instagram.com/jennvennnn/
 [linkedin]: https://www.linkedin.com/in/jenn-ven-thong-552bb3223/
 
