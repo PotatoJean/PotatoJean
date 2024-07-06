@@ -11,16 +11,17 @@
 - <b>CyberSafeU</b>
   - [Education & Training System for TARUMT](https://github.com/PotatoJean/CyberSafeU)
     
-- <b>File Integrity Monitor Practice [in progress]</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]()
+- <b>Arbitrary File Upload (Webshell Php)</b>
+  - [Webshell Upload Simulation]()
 
 - <b>Vulnerability Management [in progress]</b>
   - [Nessus Tutorial for beginner]()
 
 <h2>📃 Certificates Obtained:</h2>
 
-- <b>Qualys Vulnerability Management (Expected 3/2024)</b>
-- <b>CompTIA Security+ (Expected 6/2024)</b>
+- <b>Qualys Vulnerability Management -Foundation</b>
+- <b>Qualys PCI Compliance -Foundation</b>
+- <b>ISC2 Certified in Cybersecurity</b>
 - <b>Google Cybersecurity Professional Certificate  </b>
 - <b>CCNAv7-3 levels</b>
 
