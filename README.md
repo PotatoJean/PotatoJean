@@ -14,8 +14,12 @@
 - <b>Arbitrary File Upload (Webshell Php)</b>
   - [Webshell Upload Simulation](https://github.com/PotatoJean/ArbitraryFileUpload/blob/main/README.md)
 
+- <b>Security Assessment</b>
+  - [NIST Cybersecurity Framework Assessment](https://github.com/PotatoJean/SecurityAssessment/blob/main/README.md)
+    
 - <b>Vulnerability Management [in progress]</b>
   - [Nessus Tutorial for beginner]()
+  
 
 <h2>📃 Certificates Obtained:</h2>
 
