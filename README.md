@@ -1,5 +1,5 @@
 <h1>Hi, I'm Jean! </h1>
-<p>Welcome to my GitHub portfolio! I am a cybersecurity student from TARUMT. I would like to explore different roles if given the opportunity. Connect with me below!</p>
+<p>Welcome to my GitHub portfolio! I am a fresh graduate student from TARUMT, major in Information Security. I would like to explore IT audit in the field of GRC. Connect with me below!</p>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Analyze Network Traffic (TCPDump) </b>
