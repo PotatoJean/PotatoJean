@@ -18,7 +18,7 @@
   - [NIST Cybersecurity Framework Assessment](https://github.com/PotatoJean/SecurityAssessment/blob/main/README.md)
  
 - <b>Incident Response Labs</b>
-  - [Compilation of IR Lab Reports]()
+  - [Compilation of IR Lab Reports](https://github.com/PotatoJean/IncidentResponseLab/blob/main/README.md)
     
 - <b>Vulnerability Management [in progress]</b>
   - [Nessus Tutorial for beginner]()
