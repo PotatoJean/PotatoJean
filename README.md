@@ -8,7 +8,7 @@
 - <b>Setting up basic home lab (Active Directory)</b>
   - [Active Directory](https://github.com/PotatoJean/Active-Directory/blob/main/README.md) </i>
   
-- <b>CyberSafeU</b>
+- <b>CyberSafeU (Final Year Project)</b>
   - [Education & Training System for TARUMT](https://github.com/PotatoJean/CyberSafeU)
     
 - <b>Arbitrary File Upload (Webshell Php)</b>
