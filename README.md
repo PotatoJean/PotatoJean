@@ -19,6 +19,9 @@
  
 - <b>Incident Response Labs</b>
   - [Compilation of IR Lab Reports](https://github.com/PotatoJean/IncidentResponseLab/blob/main/README.md)
+ 
+- <b>Setting Up SIEM in Homelab</b>
+  - [Elastic SIEM Agent in Kali Linux](https://github.com/PotatoJean/)
     
 - <b>Vulnerability Management [in progress]</b>
   - [Nessus Tutorial for beginner]()
@@ -36,6 +39,8 @@
 
 - <b>Boss of the SOC V1, CyberDefenders</b>
 - <b>Phishing Analysis, Blue Team Labs Online(BTLO)</b>
+- <b>The Report, Blue Team Labs Online(BTLO)</b>
+- <b>The Report II, Blue Team Labs Online(BTLO)</b>
 
 
 <h2> 🤳 Connect with me:</h2>
