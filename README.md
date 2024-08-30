@@ -21,7 +21,7 @@
   - [Compilation of IR Lab Reports](https://github.com/PotatoJean/IncidentResponseLab/blob/main/README.md)
  
 - <b>Setting Up SIEM in Homelab</b>
-  - [Elastic SIEM Agent in Kali Linux](https://github.com/PotatoJean/)
+  - [Elastic SIEM Agent in Kali Linux](https://github.com/PotatoJean/HomeSIEM/blob/main/README.md)
     
 - <b>Vulnerability Management [in progress]</b>
   - [Nessus Tutorial for beginner]()
