@@ -38,6 +38,7 @@
 <h2>🔧 Labs Completed:</h2>
 
 - <b>Boss of the SOC V1, CyberDefenders</b>
+- <b>SOC Fundamentals, Let's Defend</b>
 - <b>Phishing Analysis, Blue Team Labs Online(BTLO)</b>
 - <b>The Report, Blue Team Labs Online(BTLO)</b>
 - <b>The Report II, Blue Team Labs Online(BTLO)</b>
